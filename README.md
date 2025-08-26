@@ -78,8 +78,10 @@ ________________________________________
 ________________________________________
 8️⃣ Snapshots
 📸 
-1.  https://github.com/Riteshsphalak04/Loan-Portfolio-Intelligence-Dashboard-/blob/main/Snapshot%20Of%20Overview%20Dahbord.png
-2.  
+1.  Sanpshot of Overview Dahbord:
+    https://github.com/Riteshsphalak04/Loan-Portfolio-Intelligence-Dashboard-/blob/main/Snapshot%20Of%20Overview%20Dahbord.png
+2.  Snapshot of Summary Dahboard:
+    https://github.com/Riteshsphalak04/Loan-Portfolio-Intelligence-Dashboard-/blob/main/Snapshot%20of%20Summary%20Dahbord.png
 ________________________________________
 9️⃣ Conclusion
 The Loan Portfolio Intelligence Dashboard empowers banks to:
