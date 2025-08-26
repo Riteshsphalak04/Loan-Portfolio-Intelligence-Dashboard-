@@ -77,7 +77,9 @@ ________________________________________
 6.	Home ownership status significantly impacts approval and repayment behavior.
 ________________________________________
 8️⃣ Snapshots
-📸 (Insert snapshots/screenshots of Excel dashboards, pivot tables, and SQL query outputs here to enhance project visualization)
+📸 
+1.  https://github.com/Riteshsphalak04/Loan-Portfolio-Intelligence-Dashboard-/blob/main/Snapshot%20Of%20Overview%20Dahbord.png
+2.  
 ________________________________________
 9️⃣ Conclusion
 The Loan Portfolio Intelligence Dashboard empowers banks to:
