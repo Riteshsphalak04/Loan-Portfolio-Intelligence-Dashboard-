@@ -85,9 +85,14 @@ ________________________________________
 ________________________________________
 9️⃣ Conclusion
 The Loan Portfolio Intelligence Dashboard empowers banks to:
+
 •	Monitor loan portfolio health with precision
+
 •	Detect risks by identifying bad loan trends
+
 •	Optimize lending strategies by analyzing borrower segments
+
 •	Strengthen repayment forecasting and cash flow management
+
 This solution provides a data-driven foundation for enhancing lending operations and long-term financial strategy.
 
